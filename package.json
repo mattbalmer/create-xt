@@ -1,0 +1,14 @@
+{
+    "name": "create-xt",
+    "version": "0.0.0",
+    "main": "./src/index.js",
+    "description": "Extensions for the CreateJS canvas library.",
+    "license": "MIT",
+    "author": "Matt Balmer <contact@mattbalmer.com>",
+    "keywords": [
+        "create",
+        "creatext",
+        "createjs",
+        "canvas"
+    ]
+}
