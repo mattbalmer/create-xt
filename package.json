@@ -1,6 +1,6 @@
 {
     "name": "create-xt",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "main": "./src/index.js",
     "description": "Extensions for the CreateJS canvas library.",
     "license": "MIT",
